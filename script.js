@@ -1,5 +1,5 @@
 /**
- * ArabiccharacterCounter.com — Core Tool Engine
+ * Arabictextcounter.online — Core Tool Engine
  * Pure Vanilla JavaScript (ES6+)
  * Fully Unicode-aware for Urdu, Arabic, English, and mixed-direction scripts.
  */
